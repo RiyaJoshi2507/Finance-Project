@@ -1,10 +1,10 @@
-* Bank Loan Dashboard & Analysis
+* ## Bank Loan Dashboard & Analysis
 >This project showcases my data analysis and dashboarding skills using real-world loan data.
 
-* Project Discription
+* ## Project Discription
 > In this this project i focuses on analyzing loan performance data for a bank using SQL, Power BI, Tableau,python and Excel. It includes KPI generation, cohort performance tracking, and loan segmentation by various demographic and financial attributes. The goal is to deliver data-driven insights to assist the bank in understanding loan issuance trends, repayment behavior, and customer segmentation.
 
-* Objectives
+* ## Objectives
 >Extract and aggregate key metrics like total loan applications, funded amounts, interest rates, and defaults using SQL.
 
 >Build dynamic and interactive dashboards using Power BI, Tableau, and Excel.
@@ -21,7 +21,7 @@
 
 🧪 Data Analysis Highlights
 
-✅ Key KPIs:
+## ✅ Key KPIs:
 
 Total Applications, Funded & Received Amount
 
@@ -45,9 +45,9 @@ Employment Length
 
 Home Ownership
 
-📊 Dashboards
+## 📊 Dashboards
 
-🟢 Power BI Dashboard:
+## 🟢 Power BI Dashboard:
 
 MTD/PMTD/MOM comparisons
 
@@ -57,7 +57,7 @@ State-wise funding visualized on map
 
 KPI cards with dynamic filtering
 
-🔵 Tableau Dashboard:
+## 🔵 Tableau Dashboard:
 
 Clean layout with filters for loan term, status, and state
 
@@ -67,7 +67,7 @@ Color-coded risk analysis (Good vs. Bad Loans)
 
 Monthly application and funding trends
 
-🟠 Excel Dashboard:
+## 🟠 Excel Dashboard:
 
 Static visuals with slicers
 
@@ -75,7 +75,7 @@ KPI summaries in pivot format
 
 Bar and line charts for trend tracking
 
-📁 File Structure
+## 📁 File Structure
 
 /SQL_Queries.docx               -- All SQL KPI and trend queries
 
@@ -89,7 +89,16 @@ Bar and line charts for trend tracking
 
 /README.md                      -- Project Documentation
 
-💡 Key Insights
+## 🛠 Tools & Technologies
+
+- **Python** (Pandas, Matplotlib, Seaborn)
+- **SQL** (SSMS, joins, aggregation, pivot)
+- **Excel** (Pivot tables, charts, slicers)
+- **Power BI** (DAX, interactive visuals)
+- **Tableau** (Drag & drop visual analytics)
+
+
+## 💡 Key Insights
 
 65% of loans are in Good Standing — either “Fully Paid” or “Current”
 Short-term loans show higher charge-off rates
