@@ -2,7 +2,7 @@
 >This project showcases my data analysis and dashboarding skills using real-world loan data.
 
 * Project Discription
-> In this this project i focuses on analyzing loan performance data for a bank using SQL, Power BI, Tableau, and Excel. It includes KPI generation, cohort performance tracking, and loan segmentation by various demographic and financial attributes. The goal is to deliver data-driven insights to assist the bank in understanding loan issuance trends, repayment behavior, and customer segmentation.
+> In this this project i focuses on analyzing loan performance data for a bank using SQL, Power BI, Tableau,python and Excel. It includes KPI generation, cohort performance tracking, and loan segmentation by various demographic and financial attributes. The goal is to deliver data-driven insights to assist the bank in understanding loan issuance trends, repayment behavior, and customer segmentation.
 
 * Objectives
 >Extract and aggregate key metrics like total loan applications, funded amounts, interest rates, and defaults using SQL.
@@ -18,18 +18,6 @@
 >Impact of loan term and employment length
 
 >Monthly and state-level funding trends
-
-🛠 Tools & Technologies
-
-SQL Server Management Studio (SSMS) – for writing queries and aggregating KPIs
-
-Power BI – for interactive visualizations and slicer-based exploration
-
-Tableau – for clean, presentation-ready dashboards
-
-Excel – for static KPI dashboards
-
-Power Query – for data transformation
 
 🧪 Data Analysis Highlights
 
@@ -87,10 +75,6 @@ KPI summaries in pivot format
 
 Bar and line charts for trend tracking
 
-💡 Key Insights
-
-65% of loans are in Good Standing — either “Fully Paid” or “Current”
-
 📁 File Structure
 
 /SQL_Queries.docx               -- All SQL KPI and trend queries
@@ -101,22 +85,17 @@ Bar and line charts for trend tracking
 
 /Tableau_Loan_Dashboard.twbx    -- Tableau workbook 
 
+/Bank_Loan.ipynb                --Python File
+
 /README.md                      -- Project Documentation
 
+💡 Key Insights
+
+65% of loans are in Good Standing — either “Fully Paid” or “Current”
 Short-term loans show higher charge-off rates
 
 California, Texas, and New York top the list in loan volume and funding
 
 High DTI often correlates with loan default
-
-🚀 Future Improvements
-
-Add predictive analytics for default likelihood
-
-Enable automatic dashboard refresh via Power BI Service or Tableau Public
-
-Combine with external datasets like credit scores or demographics
-
-🙋‍♀️ Author
 
 Riya Joshi
